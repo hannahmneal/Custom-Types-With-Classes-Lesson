@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/hannahneal/workspace/C-sharp/ch7-custom-types-with-classes/lesson/lesson.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
